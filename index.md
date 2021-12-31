@@ -13,8 +13,7 @@ Relevant Courses:
 College English Test Ⅵ: 539/710
 
 ### RESEARCH PROJECTS
-Deep Medical Text Matching Algorithm with Domain Knowledge Injection          Feb. 2021-May. 2021
-Supervisor: Prof. Zhang Meihui, paper submitted                                
+Deep Medical Text Matching Algorithm with Domain Knowledge Injection          Feb. 2021-May. 2021                    
 - Trained the ability of consulting and summarizing literature and studied the paradigm of thesis writing
 - Analyzed researches of medical Q&A, Knowledge Base Question Answering and Text Matching
 - Gained an understanding of Word2vec, Bi-LSTM, Transformer, BERT and basic commands of Linux
