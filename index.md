@@ -45,6 +45,5 @@ Exercise on Optimizing Flow Shop Scheduling                                   Ju
 •	Two second-class University Scholarship (10%), two third-class University Scholarship (15%)    
 
 ### SKILLS                                                                                                              
-•	Proficient in C, C++, Python, MATLAB.
-
+•	Proficient in C, C++, Python, MATLAB
 
