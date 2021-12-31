@@ -42,7 +42,7 @@ Exercise on Optimizing Flow Shop Scheduling                                   Ju
 
 - 2nd Place, Yongding River Marathon Competition                                        2020
 - Silver medal, Table Tennis Doubles in School of XUTELI                                2019
-- Two second-class University Scholarship (10%), two third-class University Scholarship (15%)    
+- Two second-class University Scholarship (10%), two third-class University Scholarship  (15%)    
 
 ### SKILLS                                                                                                              
 - Proficient in C, C++, Python, MATLAB
